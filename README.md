@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Subset Sum Calculation</title>
+Subset Sum Calculation
 </head>
 <body>
 
@@ -33,11 +33,12 @@
 
 <h2>Images</h2>
 
-<p>Here are some images related to the applications of the program:</p>
+<p>Algoritms created in:</p>
 
-<img src="https://www.example.com/combinatorial-optimization.jpg" alt="Combinatorial Optimization" width="400">
-<img src="https://www.example.com/number-theory.jpg" alt="Number Theory" width="400">
-<img src="https://www.example.com/algorithm-development.jpg" alt="Algorithm Development" width="400">
+<img src="https://github.com/Iulika2901/algorithms-in-C/assets/84437252/5f7bc33a-beea-4a74-b2ea-ff9b0268c44d" width="400">
+<p>About the algorithm:</p>
+<img src="https://www.example.com/number-theory.jpg](https://www.google.com/url?sa=i&url=http%3A%2F%2Fnotes.imt-decal.org%2Fcounting%2Fprinciple-include-exclude.html&psig=AOvVaw2hvAh0gpfRmdUgHXEsPgGW&ust=1712430640201000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDfzrHjq4UDFQAAAAAdAAAAABAJ" alt="Number Theory" width="400">
+
 
 </body>
 </html>
